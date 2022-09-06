@@ -12,3 +12,11 @@ body {
     padding: 1rem;
     margin: 1rem;
 }
+
+.products {
+    border: 2px solid transparent;
+    margin: 1rem;
+    background: white;
+    border-radius: 1rem;
+    padding: 1rem;
+}
